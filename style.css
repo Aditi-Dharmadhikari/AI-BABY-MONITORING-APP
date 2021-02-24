@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #objects_detected
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: cornflowerblue 5px 5px;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
